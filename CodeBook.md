@@ -1,3 +1,4 @@
+<pre>
                DATA DICTIONARY - MEAN VALUES SMARTPHONES DATA SET
 
 Subject
@@ -357,3 +358,4 @@ fBodyBodyGyroMag-std()
 fBodyBodyGyroJerkMag-std()
     Standard deviation of the mean value of Fast Fourier Transform of the gyroscope jerk
             -1..1 .Dimension for axis
+</pre>
